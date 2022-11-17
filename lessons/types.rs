@@ -1,3 +1,4 @@
+#[allow(dead_code)]
 pub fn run() {
     // Bool and Option
     let _is_enabled = true;

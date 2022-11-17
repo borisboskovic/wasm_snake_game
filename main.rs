@@ -1,5 +1,6 @@
-pub mod lessons;
+mod lessons;
+use lessons::primes;
 
 fn main() {
-    lessons::types::run();
+    primes::run();
 }
