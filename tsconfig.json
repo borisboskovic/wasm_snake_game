@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "target": "ESNext",
+        "lib": ["DOM", "DOM.Iterable", "ESNext"],
+        "strict": true,
+        "module": "ESNext"
+    },
+    "include": ["www"],
+    "exclude": ["src"]
+}
